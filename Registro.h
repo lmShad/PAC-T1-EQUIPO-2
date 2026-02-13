@@ -1,4 +1,4 @@
-// Integrante 3: Brandon Yahir Flores Garcia
+// Integrante 3: Brandon Yahir Flores Garcia.
 #ifndef REGISTRO_H
 #define REGISTRO_H
 

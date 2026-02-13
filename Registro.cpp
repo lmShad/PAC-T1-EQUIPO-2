@@ -1,4 +1,4 @@
-// Integrante 3: Brandon Yahir Flores Garcia
+// Integrante 3: Brandon Yahir Flores Garcia.
 #include "Registro.h"
 #include <fstream>
 #include <iostream>
