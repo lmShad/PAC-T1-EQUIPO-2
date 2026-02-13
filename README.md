@@ -13,7 +13,8 @@ Reportes: Generación automática de un archivo .txt con los resultados detallad
 
 El proyecto está estructurado de forma modular, separando la lógica de obtención de datos, el motor de análisis y el sistema de reportes.
 
-Integrantes del Equipo
+Integrantes del Equipo:
+
 Nombre 1 – JoM235
 Nombre 2 – ImShad
 Nombre 3 – BR4ND0NFL0RES
